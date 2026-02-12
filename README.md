@@ -1,9 +1,9 @@
 # Hi there, I'm Abhai Sankar P R! 👋
 
+I'm a passionate developer focused on building tech that solves real-world problems—currently developing a **Blockchain-based** organ donation system and streamlining logistics with **Odyssey IV**. I enjoy turning complex logic like **Automata Theory** into clean, functional code across Web and Mobile.
 
-I'm a passionate developer focused on building tech that solves real-world problems
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhai-sankar-p-r-2410b3296) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhai-sankar-p-r-2410b3296) 
 
 ---
 
@@ -20,8 +20,10 @@ I'm a passionate developer focused on building tech that solves real-world probl
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhaiSankarPR&theme=moltack&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbhaiSankarPR&theme=moltack&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AbhaiSankarPR&theme=moltack&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbhaiSankarPR&theme=moltack&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhaiSankarPR&theme=moltack&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
@@ -31,6 +33,4 @@ I'm a passionate developer focused on building tech that solves real-world probl
 ![](https://github-contributor-stats.vercel.app/api?username=AbhaiSankarPR&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbhaiSankarPR&icon=7&color=9)](https://visitcount.itsvg.in)haiSankarPR&theme=moltack&hide_border=false)<br/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=AbhaiSankarPR&icon=7&color=9)](https://visitcount.itsvg.in)
