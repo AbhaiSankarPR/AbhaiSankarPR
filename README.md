@@ -1,6 +1,6 @@
 # Hi there, I'm Abhai Sankar P R! 👋
 
-I'm a passionate developer focused on building tech that solves real-world problems—currently developing a **Blockchain-based** organ donation system and streamlining logistics with **Odyssey IV**. I enjoy turning complex logic like **Automata Theory** into clean, functional code across Web and Mobile.
+I'm a passionate developer focused on building tech that solves real-world problems—streamlining logistics with **Odyssey IV**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhai-sankar-p-r-2410b3296) 
@@ -15,7 +15,6 @@ I'm a passionate developer focused on building tech that solves real-world probl
 # 🚀 Current Projects:
 * **Sacred Space** – A dedicated application designed for personal growth and focus.
 * **Odyssey IV** – A central hub for managing industrial visit schedules, expenses, and memories.
-* **Blockchain Organ Matching** – A decentralized system aimed at creating transparency and efficiency in organ donation.
 
 ---
 
