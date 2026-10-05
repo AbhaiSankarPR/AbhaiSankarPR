@@ -32,7 +32,7 @@ I'm a Computer Science engineering student and tech lead passionate about archit
 | **Languages** | `Python` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Java` &nbsp;·&nbsp; `C` &nbsp;·&nbsp; `HTML5` &nbsp;·&nbsp; `CSS3` |
 | **Frameworks & Web** | `React` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `Flutter` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express` &nbsp;·&nbsp; `Tailwind CSS` |
 | **Databases & Cloud** | `Firebase` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `Vercel` &nbsp;·&nbsp; `Netlify` |
-| **AI, Tools & Extensions** | `Ollama` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `spaCy` &nbsp;·&nbsp; `Manifest V3` &nbsp;·&nbsp; `Git` &nbsp;·&nbsp; `VS Code` |
+| **AI, Tools & Extensions** | `Ollama` &nbsp;·&nbsp; `Manifest V3` &nbsp;·&nbsp; `Git` &nbsp;·&nbsp; `VS Code` |
 
 </div>
 
